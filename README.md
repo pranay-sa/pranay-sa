@@ -2,7 +2,7 @@
 
 💻 A Tech guy from Bengaluru, India  
 🎓 Pursuing B.Tech in Computer Science & Engineering at **Vellore Institute of Technology, Vellore** (2022–2026)  
-👨🏻‍💻 Skilled in **Web Development (Web2 & Web3), AI/ML, DevOps, Security**  
+👨🏻‍💻 Skilled in **Web Development (Web2 & Web3), AI/ML, Design, Security**  
 💼 Worked as **SDE Intern @ Tru Tech Labs**  
 🚀 Built multiple **freelance projects**, RAG models, and Blockchain DApps  
 📚 Currently working on **Distributed Cloud , Security, and Advanced Systems**  

@@ -16,7 +16,6 @@
 **Frameworks & Libraries:** React, Node.js, Express.js, NumPy, Pandas, Matplotlib  
 **Databases:** SQL, MongoDB  
 **Tools:** GitHub, draw.io, StarUML  
-**Coursework:** DSA, DAA, OOP, OS, CN, DBMS, AWS Solutions Architect  
 
 ---
 
@@ -28,17 +27,7 @@
 
 ---
 
-## 🎨 Leadership & Achievements
 
-- **Design Head @ KLA Club** → Led 10+ designers, creating content with Adobe Premiere Pro, Canva, Clipchamp.  
-- **Competitive Programming** → Solved **300+ problems on Leetcode,CodeChef**
-
----
-
-## ⚡ GitHub Stats
-
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay-sa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-sa&layout=compact&theme=radical)  
 
 ---
 
